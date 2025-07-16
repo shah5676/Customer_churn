@@ -3,7 +3,7 @@ A machine learning web application developed with Streamlit to predict customer 
 
 🚀 Live Demo
 🔗 Launch the App
-https://shah5676-customer-churn-churnapp-aw5wlv.streamlit.app/
+https://customerchurn-acb7ntfxbc6lnr3xtcox4i.streamlit.app/
 
 💡 Key Features
 📋 Intuitive web interface for customer input
